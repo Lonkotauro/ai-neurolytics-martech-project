@@ -1,9 +1,9 @@
 # kpi_metrics.py
-# Refined Python script to calculate lead conversion metrics using pandas
+# Python script to calculate lead conversion metrics using pandas
 
 import pandas as pd
 
-# Simulated CRM export
+# CRM export
 data = {
     "lead_id": [1, 2, 3, 4, 5, 6, 7],
     "status": ["MQL", "SQL", "Closed", "MQL", "Closed", "SQL", "Closed"],
